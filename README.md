@@ -9,9 +9,13 @@ Click enter to play,
 Enter the buy in amount 100 or less
 
 Game loop===
+
   Enter the amount you want to bet, 
+  
   Enter the bet,
+  
     1 through 6 are reserved for the dice faces 1 to 6
+    
       example enter 1 if you want to bet that the dice will be 1 
     0 is for low   1 - 3
     9 is for high  4 - 6
