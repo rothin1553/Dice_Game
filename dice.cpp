@@ -20,7 +20,7 @@
 #include<ctime>
 #include<limits>
 
-#include "/Users/rothin1553/Desktop/cpp/password/password.h"
+#include "password.h"
 #include<vector>
     using std::vector;
     
