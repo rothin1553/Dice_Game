@@ -1,11 +1,14 @@
 # Dice_Game
 A small game that allow to bet on a rolling dice
 
-This is a c++ file that compile on mac terminal with clang++ or g++ 
+This is a c++ file that compile on mac terminal with clang++ or g++. 
+
+How to compile: "g++ or clang++ dice.cpp"
 
 Once the game is run,
 
 Click enter to play,
+
 Enter the buy in amount 100 or less
 
 Game loop===
